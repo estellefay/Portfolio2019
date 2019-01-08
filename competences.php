@@ -10,6 +10,144 @@ include 'template/navbar.php';
     <img src="img/down-arrow.png" alt="">
 </div>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus molestie iaculis erat in porttitor. Fusce iaculis, odio et rhoncus gravida, arcu tortor euismod magna, et vestibulum lectus mi eget sapien. Nulla facilisi. Praesent iaculis lobortis orci non ultricies. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum ornare, quam eget imperdiet sodales, nunc justo rutrum lectus, sed hendrerit sapien est nec quam. Praesent vitae sem at sem venenatis lobortis. Nulla ut mi id neque aliquet consectetur nec eget nulla.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin tincidunt consectetur risus et venenatis. Maecenas iaculis porta sagittis. Nulla facilisi. Nullam laoreet, ex et porta euismod, augue eros luctus magna, id semper nisl justo nec turpis. Morbi tempor purus nisi, eu cursus purus faucibus ac. Phasellus sit amet metus aliquam, posuere dui ac, ultricies ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam mattis pellentesque turpis, at venenatis nunc fringilla ut. Proin gravida eros a diam euismod hendrerit. Donec vestibulum euismod magna consequat bibendum. Aenean euismod nulla ut risus viverra gravida. Integer ac dolor nec felis consequat convallis vitae quis velit. Suspendisse rhoncus leo quis dui eleifend consequat.</p>
+
+
+<div class ="competence-info-techno">
+    <div class="competence-title">
+        <h1>Informatique</h1>
+        <h2>Langages / Framwork</h2>
+    </div>
+    <div class="competence-info">
+        <div class="level">
+            <ul>
+                <li>Apprentie</li>
+                <li>Les Bases</li>
+                <li>Correct</li>
+                <li>Bon</li>
+                <li>Expert</li>
+            </ul>
+        </div>
+        <div class = "technologie-informatique">
+            <div class="competences-info-detail">
+                <img src="./img/css.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="competences-info-detail">
+                <img src="./img/javascript.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="competences-info-detail">
+                <img src="./img/php.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="competences-info-detail">
+                <img src="./img/c.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="competences-info-detail">
+                <img src="./img/vbnet.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="competences-info-detail">
+                <img src="./img/laravel.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="competences-info-detail">
+                <img src="./img/net.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="competences-info-detail">
+                <img src="./img/bash.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>   
+</div>
+
+
+<div class ="competence-info-techno2">
+    <div class="competence-info2">
+        <div class="level">
+            <ul>
+                <li>Apprentie</li>
+                <li>Les Bases</li>
+                <li>Correct</li>
+                <li>Bon</li>
+                <li>Expert</li>
+            </ul>
+        </div>
+        <div class = "technologie-informatique2">
+            <div class="competences-info-detail">
+                <img src="./img/css.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="competences-info-detail">
+                <img src="./img/javascript.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="competences-info-detail">
+                <img src="./img/php.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="competences-info-detail">
+                <img src="./img/c.png" alt="">
+                <div class="bar">
+                    <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> 
+    <div class="competence-title">
+        <h1>Informatique</h1>
+        <h2>Technologie et Environement</h2>
+    </div>  
+</div>
+
+
